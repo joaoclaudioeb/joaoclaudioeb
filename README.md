@@ -1,4 +1,4 @@
-Hi, i'm João Cláudio E. B., an embedded hardware/software engineer, from Brazil!
+Hi, I'm João Cláudio E. B., an embedded hardware/software engineer, from Brazil!
 
 <details>
 <summary>
@@ -16,6 +16,5 @@ Hi, i'm João Cláudio E. B., an embedded hardware/software engineer, from Brazi
 
 ### Professional engagements
 
-Currently, I am a MSc student in Electrical Engineering, focusing on Embedded Systems, at the Federal University of Santa Catarina (UFSC). 
-I am a member of [SpaceLab](https://github.com/spacelab-ufsc), working on firmware (mostly in C/C++) and hardware for CubeSats. 
-I am involved in the development of the [FloripaSat-2 platform](https://ieeexplore.ieee.org/document/10078027), which will be used in several SpaceLab's missions, as well as in the creation of new ones to come.
+I am currently pursuing a Master's degree in Electrical Engineering, specializing in Embedded Systems, at the Federal University of Santa Catarina (UFSC). As a proud member of [SpaceLab](https://github.com/spacelab-ufsc), I'm actively engaged in developing firmware (primarily in C/C++) and hardware tailored for CubeSats. Specifically, I'm contributing to the advancement of the [FloripaSat-2 platform](https://ieeexplore.ieee.org/document/10078027), a pivotal project slated for deployment in various SpaceLab missions. Additionally, I'm actively involved in shaping and creating novel platforms for future endeavors.
+
